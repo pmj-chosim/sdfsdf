@@ -19,11 +19,10 @@ Q. 오늘 교육 이전 해당하는 항목에 대해 응답해주세요. (복�
 - GitHub Actions을 사용해 본 적이 있다.
   
   
-Q. 오늘 이해한 부분에 대해 모두 응답해주세요. (복수)
+Q. 실습이 어려웠던 항목을 모두 응답해주세요. (복수)
 
 - GitHub Codespaces
 - git add, git commit, git push
-- CI/CD
 - GitHub Actions
 
 
